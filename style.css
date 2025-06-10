@@ -1,0 +1,25 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+
+}
+
+.container{
+    width: 90%;
+    background-color: lightgray;
+    margin: 20px;
+    padding: 21px;
+}
+.box {
+    width: 90%;
+    height: 100px;
+    display: flex;
+    padding: 21px;
+    margin: 20px;
+    background-color:#34495e;
+    border-radius: 20px;
+}
+.text {
+    color: aliceblue;
+}
